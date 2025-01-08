@@ -1,17 +1,5 @@
-# ServerCore
+# ServerCore fix for hybrid cores
 
-[
-![Discord](https://img.shields.io/discord/998162243852173402?style=flat&label=Discord&logo=discord&color=7289DA)
-](https://discord.gg/Y9nC7Peq4m)
-[
-![Build Status](https://github.com/Wesley1808/ServerCore/actions/workflows/gradle.yml/badge.svg)
-](https://github.com/Wesley1808/ServerCore/actions/workflows/gradle.yml)
-[
-![Modrinth](https://img.shields.io/modrinth/dt/servercore?color=00AF5C&label=Modrinth&style=flat&logo=modrinth)
-](https://modrinth.com/mod/servercore)
-[
-![Curseforge](http://cf.way2muchnoise.eu/full_550579_Downloads.svg)
-](https://www.curseforge.com/minecraft/mc-mods/servercore)
 
 A mod that aims to optimize the minecraft server.\
 Works on both dedicated servers and singleplayer!
